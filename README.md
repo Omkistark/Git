@@ -1,2 +1,3 @@
 # Git
-Cheat Sheet
+Cheat Sheet  
+Common Commands
